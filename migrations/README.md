@@ -1,0 +1,13 @@
+# Database Migrations
+
+Folder ini berisi file migrasi SQL terstruktur.
+
+## Konvensi
+
+`NOMOR_deskripsi.sql`
+
+## Daftar Migrasi
+
+| No | File | Tanggal | Deskripsi |
+|---|---|---|---|
+| 001 | `001_add_created_at_to_users.sql` | 2026-10-16 | Fix BUG-009 |
